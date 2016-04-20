@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ActivityNavigation</string>
+    <string name="tela_um">HOME</string>
+    <string name="tela_dois">TELA 2</string>
+    <string name="bt_tela_dois">RETORNAR</string>
+
 </resources>
